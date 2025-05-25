@@ -22,15 +22,6 @@ Currently, I’m deepening my knowledge in **machine learning for medical image 
 
 ---
 
-### 🚧 Featured Projects (coming soon)
-
-I'm currently preparing and uploading code and documentation for key projects, including:
-- 🧠 Modeling of hippocampal neurons (CA3–CA1) in my master’s thesis
-- 🖼️ Deep learning for cardiac detection and tumor segmentation
-- 📢 Fake news detection in Persian tweets using NLP and machine learning
-
----
-
 ### 📫 Contact
 
 - 📧 Email: simahashemi3@email.com  
