@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-I've been programming with **Python** since 2019, starting with university projects and research internships. My academic background is in **computational neuroscience**, where I focused on modeling both **single neurons and neural networks**, exploring the learning and memory mechanisms.
+I've been programming with **Python** since 2019, starting with university projects and research internships. My academic background is in **computational neuroscience**, where I focused on modeling both **single neurons and neural networks**, exploring the learning and memory mechanisms in brain.
 
 Currently, I’m deepening my knowledge in **machine learning for medical image computing** to apply data-driven methods in health-related research and diagnostics.
 
