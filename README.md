@@ -24,6 +24,5 @@ Currently, I’m deepening my knowledge in **machine learning for medical image 
 
 ### 📫 Contact
 
-- 📧 Email: simahashemi3@email.com  
+- 📧 Email: simahashemi3@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sima-hashemi/) 
-- 🌐 Portfolio (coming soon)
