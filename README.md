@@ -15,7 +15,7 @@ Currently, I’m deepening my knowledge in **machine learning for medical image 
 
 ### 🛠️ Tools & Skills
 
-- **Languages:** Python, C, SQL  
+- **Languages:** Python, R, SQL, C   
 - **Libraries & Tools:** NumPy, Pandas, SciPy, Matplotlib, Seaborn, PyTorch, scikit-learn, Tensorflow  
 - **Medical & Neuro Tools:** nibabel, pydicom, SimpleITK  
 - **Domains:** Computational Modeling • Medical Image Computing • Health Data Science
