@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sima
 
-🎓 MSc in Physics | 🧠 Computational Neuroscience | 🩺 Aspiring Data Scientist in Health & Medical Imaging  
-📍 Based in Germany
+🎓 MSc in Physics | 🧠 Computational Neuroscience 
+📍 Based in Heidelberg, Germany
 
 ---
 
